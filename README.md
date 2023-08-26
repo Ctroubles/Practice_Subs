@@ -23,4 +23,4 @@ Este proyecto no tiene licencia y se considera de dominio público. Siéntete li
 
 ---
 
-Creado con 🚀 por César.
+Relizado con 🚀 por César.
